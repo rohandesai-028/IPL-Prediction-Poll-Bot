@@ -14,8 +14,5 @@ Procedure to start the poll
 2. Use the /prediction command to start accepting predictions.  
 The Poll question is displayed as Team 1 vs Team 2.  
 If Team 1 wins, then no need to edit the flag. If Team 2 wins, the flag must be manually set to 1. 
-
-(Need to learn Data scraping to automate this step :/ ). 
-
 3. The results of the prediction are stored in a separate csv. Users can check the leaderboard with the /stats command.
 #ESCN
